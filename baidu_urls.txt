@@ -1,3 +1,4 @@
+https://blog.exquisitecore.xyz/2023/12/23/Rust%E7%BC%96%E5%86%99QQ%E6%9C%BA%E5%99%A8%E4%BA%BA/
+https://blog.exquisitecore.xyz/2023/12/23/QQ%E6%9C%BA%E5%99%A8%E4%BA%BAOpenShamrock%E6%90%AD%E5%BB%BA/
 https://blog.exquisitecore.xyz/2023/12/22/%E8%AE%B0%E4%B8%80%E6%AC%A1Github-Pages%E6%90%AD%E5%BB%BAHexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/
-https://blog.exquisitecore.xyz/2023/12/21/hello-world/
 https://blog.exquisitecore.xyz/2023/12/21/EC%E7%9A%84windows%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B/
